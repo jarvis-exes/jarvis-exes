@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jarvisexes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:8696771553shubham@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jarvis-exes.jarvis-exes&left_color=0F172A&right_color=1E5A8C" />
+  <a href="https://linkedin.com/in/jarvisexes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=8696771553shubham@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -92,6 +91,11 @@ const shubham = {
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jarvis-exes/jarvis-exes/output/github-snake-dark.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/jarvis-exes/jarvis-exes/output/github-snake.svg" />
   </picture>
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jarvis-exes&label=Profile%20Views&color=1E5A8C&style=for-the-badge&abbreviated=true" />
 </p>
 
 <!-- Footer wave -->
